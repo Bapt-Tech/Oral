@@ -1,0 +1,7 @@
+Oral Baptiste
+
+Summary : 
+We will start with the First programmable machine, followed by the solution provided by Alan Tuning to the Enigma Machine, electronic progress in the 80’s, the Internet era and we will finish by the conclusion.
+
+The first programmable machine was the Jacquard loom, which was sold in 1801. The machine was using perforated cards. Theses cards were abandoned in the early eighties. The Loom is still used in some factories, due to his extreme durability.
+
