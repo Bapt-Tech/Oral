@@ -9,6 +9,8 @@ We will start with the First programmable machine, followed by the solution prov
 
 3. Durant les années 80, de nombreux progrès se sont établis, dont la technologie. En effet, on voit de plus en plus de composants numériques se développer, comme les écrans, les ordinateurs eux-mêmes et les périphériques. En effet, les souris qui ont été crées dans les années 60, sont améliorées et bénéficient d'une boule, ce qui remplace les anciens modèles dépourvus de cet élément. Suivra les souris optiques, puis celles à laser. Une autre grande invention qui s'est développée dans les années 80 est Internet
 
-4. InterNet (originaire du mot InterNetwork, signifiant littéralement InterRéseaux) est une longue suite d'étapes````bash
+4. InterNet (originaire du mot InterNetwork, signifiant littéralement InterRéseaux) est une longue suite d'étapes
+5.
+```bash
 E
 ```
