@@ -9,8 +9,7 @@ We will start with the First programmable machine, followed by the solution prov
 
 3. Durant les années 80, de nombreux progrès se sont établis, dont la technologie. En effet, on voit de plus en plus de composants numériques se développer, comme les écrans, les ordinateurs eux-mêmes et les périphériques. En effet, les souris qui ont été crées dans les années 60, sont améliorées et bénéficient d'une boule, ce qui remplace les anciens modèles dépourvus de cet élément. Suivra les souris optiques, puis celles à laser. Une autre grande invention qui s'est développée dans les années 80 est Internet
 
-4. InterNet (originaire du mot InterNetwork, signifiant littéralement InterRéseaux) est une longue suite d'étapes
-5.
-```bash
-E
-```
+4.La création d' InterNet (originaire du mot InterNetwork, signifiant littéralement InterRéseaux) est une longue suite d'étapes débutée dès 1940 : Un Américain nommé George Stibitz contrôle à distance une autre machine via un cable. Dès lors, le développement des réseaux s'accelerent : Les américains créent le réseau militaire ARPANET (Advanced Projects Research Agency Network). En 1971, 23 ordinateurs sont reliés par ARPANET et le premier courriel est envoyé par Ray Tomlinson. Deux ans plus tard, le protocole TCP/IP est crée. Ce dernier est encore utlisé aujourd'hui. En 1984, 1000 ordinateurs sont connectés à ARPANET, 9000 de plus ont rejoint l'ensemble de machine trois ans après et la barre symbolique des 100000 ordinateurs connectés au réseau est dépassée en 1989.
+L'année d'après, ARPANET disparait suite à sa démilitarisation, et est remplacé par INTERNET.
+
+5. En 202
