@@ -12,4 +12,4 @@ We will start with the First programmable machine, followed by the solution prov
 4.La création d' InterNet (originaire du mot InterNetwork, signifiant littéralement InterRéseaux) est une longue suite d'étapes débutée dès 1940 : Un Américain nommé George Stibitz contrôle à distance une autre machine via un cable. Dès lors, le développement des réseaux s'accelerent : Les américains créent le réseau militaire ARPANET (Advanced Projects Research Agency Network). En 1971, 23 ordinateurs sont reliés par ARPANET et le premier courriel est envoyé par Ray Tomlinson. Deux ans plus tard, le protocole TCP/IP est crée. Ce dernier est encore utlisé aujourd'hui. En 1984, 1000 ordinateurs sont connectés à ARPANET, 9000 de plus ont rejoint l'ensemble de machine trois ans après et la barre symbolique des 100000 ordinateurs connectés au réseau est dépassée en 1989.
 L'année d'après, ARPANET disparait suite à sa démilitarisation, et est remplacé par INTERNET.
 
-5. En 202
+5. En 2025, il y a eu 17.4 milliards d'appareils connectés à Internet. 
